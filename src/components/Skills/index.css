@@ -1,0 +1,19 @@
+.skill-list-container-items {
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+    flex-wrap: wrap;
+    margin: 10px;
+    align-items: center;
+}
+
+.skill-icon {
+    height: 90px;
+    margin-right: 10px;
+}
+
+.skill-para {
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 20px;
+}

@@ -1,0 +1,65 @@
+.search-container {
+    display: flex;
+    align-items: center;
+    max-width: 310px;
+    height: 40px;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+
+    margin-top: 5px;
+}
+
+.search {
+    background-color: transparent;
+    outline: none;
+    height: 30px;
+    width: 85%;
+    color: #ffffff;
+    border: transparent;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.icon {
+    background-color: #64748b;
+    height: 100%;
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.employment-heading {
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 19px;
+}
+
+.rating-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.list-items {
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.checkBox {
+    margin-right: 3px;
+    cursor: pointer;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.active-class {
+    color: blue;
+}
+
+.color {
+    color: #ffffff;
+}
